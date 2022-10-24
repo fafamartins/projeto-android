@@ -55,7 +55,7 @@ header > h1 {
   font-family: var(--fonte-especial);
   font-size: 3em;
   font-weight: normal;
-  margin-bottom: 30px;
+  padding-bottom: 30px;
   text-align: center;
   text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.479);
   

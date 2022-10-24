@@ -21,7 +21,7 @@
 
     --fonte-padrão:arial,verdana, helvetica;
     --fonte-especial:'Bebas Neue', 'cursiva';
-    --fonte-android:'android', 'cursiva'
+    --fonte-android:'android', 'cursiva';
 }
 
 *{
@@ -121,7 +121,7 @@ main h1 {
 main h2 {
     background-image: linear-gradient( to right, var(--cor1), transparent);
     color: var(--cor4);
-    font-family: var(--fonte-android);
+   font-family: var(--fonte-android);
     text-indent: 8px;
     font-weight: normal;
     font-size: 1.3em;
